@@ -11,3 +11,6 @@ Deep learning and AI Summer Program
 - [X] July 9: What real world problem can be solved using machine learning and a relevant data set?
   - https://www.kaggle.com/sansuthi/world-population-by-year
   - Calculating world population data is vital to determining future sources of conflict in our world, and through detailed population statistics in data sets such as the one above, we can make accurate predictions based on regression analysis.
+- [X] July 12: What are Tensors? How did the computations work on the Tensorflow tutorial?
+  - Tensors are arrays of some unspecifed dimension. First order tensors being vectors, as they occur in only one dimension, and second order tensors being matrices, as they occur in two dimensions. 
+  - The program makes guesses using the 784 inputs of each image, pixels, and produces one of 62 outputs, the different types of signs. The guesses are really just mathmatically equations from differing weights of the values of the inputs. Those weights are then changed, as the programs improves its ability to give out accurate sign predictions, or outputs.
